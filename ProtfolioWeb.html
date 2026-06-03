@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aniket Kumar</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: #0f172a;
+            color: white;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 10%;
+            background: #111827;
+        }
+
+        nav ul {
+            display: flex;
+            list-style: none;
+            gap: 25px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 80px;
+            padding: 50px;
+            flex-wrap: wrap;
+        }
+
+        .profile-img {
+            width: 320px;
+            height: 320px;
+            border-radius: 50%;
+            overflow: hidden;
+            border: 5px solid #3b82f6;
+            box-shadow: 0 0 30px rgba(59, 130, 246, .5);
+        }
+
+        .profile-img img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .hero-content {
+            max-width: 600px;
+        }
+
+        .hero-content h1 {
+            font-size: 3.5rem;
+        }
+
+        .hero-content h2 {
+            color: #60a5fa;
+            margin: 10px 0;
+        }
+
+        .hero-content p {
+            margin: 20px 0;
+            font-size: 1.1rem;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 12px 24px;
+            background: #2563eb;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            margin-right: 10px;
+            transition: .3s;
+        }
+
+        .btn:hover {
+            transform: translateY(-3px);
+        }
+
+        .socials {
+            margin-top: 20px;
+        }
+
+        .socials a {
+            color: #60a5fa;
+            margin-right: 15px;
+            text-decoration: none;
+        }
+
+        section {
+            padding: 80px 10%;
+        }
+
+        .card {
+            background: #1e293b;
+            padding: 25px;
+            border-radius: 12px;
+            margin-top: 20px;
+        }
+
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .skill {
+            background: #334155;
+            padding: 10px 15px;
+            border-radius: 20px;
+        }
+
+        .project {
+            margin-top: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 25px;
+            background: #111827;
+        }
+
+        @media(max-width:768px) {
+            .hero {
+                text-align: center;
+            }
+
+            .hero-content h1 {
+                font-size: 2.5rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav>
+
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section class="hero">
+
+        <div class="profile-img">
+            <img src="assets/profile.jpg" alt="Aniket Kumar">
+        </div>
+
+        <div class="hero-content">
+            <h1>Aniket Kumar</h1>
+
+            <a href="#projects" class="btn">View Projects</a>
+            <a href="resume.pdf" class="btn">Download Resume</a>
+
+            <div class="socials">
+                <a href="https://github.com/Aniketkr09">GitHub</a>
+                <a href="https://linkedin.com/in/aniket-kumar-4820b9335">LinkedIn</a>
+                <a href="mailto:aniketkumar4908@gmail.com">Email</a>
+            </div>
+        </div>
+    </section>
+    <section id="about">
+        <h2>About Me</h2>
+
+        <div class="card">
+            </P>
+            My name is Aniket kumar, I am a passionate and motivated student pursuing a B.Tech in Computer
+            Science
+            Engineering with a
+            specialization in Artificial Intelligence & Machine Learning. I have a strong foundation in
+            programming,
+            data structures, algorithms, and mathematics, and I am eager to apply my knowledge to real-world
+            challenges
+            and contribute to innovative solutions in the field of AI.
+            To gain proficiency in advanced AI and ML techniques,
+            I actively participate in research and development projects. My goal is to contribute to
+            AI-driven
+            innovations and explore career opportunities in AI/ML, data science, and research.
+            Aspiring AI Engineer with strong interest in Machine Learning,
+            Deep Learning, NLP, Computer Vision and Generative AI.
+        </div>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+
+        <div class="card skills">
+            <div class="skill">C & C++</div>
+            <div class="skill">Data Structures & Algorithms</div>
+            <div class="skill">Object-Oriented Programming</div>
+            <div class="skill">HTML, CSS, JavaScript</div>
+            <div class="skill">Python</div>
+            <div class="skill">TensorFlow, NumPy, Pandas</div>
+            <div class="skill">Machine Learning</div>
+            <div class="skill">Deep Learning</div>
+            <div class="skill">Natural Language Processing</div>
+            <div class="skill">Git/GitHub</div>
+            <div class="skill">Entrepreneurship</div>
+        </div>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+
+        <div class="card project">
+            <h3>AI Chatbot</h3>
+            <p>Conversational AI assistant using LLMs.</p>
+        </div>
+
+        <div class="card project">
+            <h3>House Price Prediction</h3>
+            <p>Machine learning regression model.</p>
+        </div>
+
+        <div class="card project">
+            <h3>Sentiment Analysis</h3>
+            <p>NLP-based text classification project.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+
+        <div class="card">
+            <p>Email: <a href="mailto:aniketkumar4908@gmail.com">aniketkumar4908@gmail.com</a></p>
+            <p>Mobile: <a href="tel:+919905575041">+91 9905575041</a></p>
+        </div>
+
+    </section>
+
+</body>
+
+</html>
