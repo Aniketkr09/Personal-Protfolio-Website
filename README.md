@@ -1,20 +1,9 @@
 #Welcome to my personal portfolio website!
 
 👨‍💻 About Me
+My name is Aniket Kumar, I am a passionate and motivated student pursuing a B.Tech in Computer Science Engineering with specializing in Artificial Intelligence & Machine Learning with a strong foundation in programming, data structures, algorithms, and mathematics, I am eager to apply my knowledge to real-world challenges and contribute to innovative solutions in the field of AI.
+To gain proficiency in advanced AI and ML techniques Contribute to AI-driven research and development projects.Explore career opportunities in AI/ML, data science, and research.
 
-Hi, I'm Aniket Kumar, a B.Tech Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning.
-
-I am passionate about:
-
-Artificial Intelligence
-Machine Learning
-Deep Learning
-Natural Language Processing (NLP)
-Computer Vision
-Generative AI
-Software Development
-
-My goal is to build intelligent systems that solve real-world problems and contribute to AI-driven innovation.
 
 🌐 Portfolio Features
 Professional Profile Section
@@ -22,28 +11,10 @@ About Me
 Skills Showcase
 Project Gallery
 Resume Download
-GitHub & LinkedIn Integration
+GitHub & LinkedIn
 Contact Information
-Responsive Design
-🛠️ Technologies Used
-Frontend
-HTML5
-CSS3
-JavaScript
-Tools
-Git
-GitHub
-VS Code
-AI/ML Skills
-Python
-Machine Learning
-Deep Learning
-TensorFlow
-NumPy
-Pandas
-NLP
 📂 Featured Projects
-AI Chatbot
+Ai Chatbot
 
 Conversational AI assistant powered by Large Language Models (LLMs).
 
@@ -66,8 +37,8 @@ Deep Learning
 Natural Language Processing
 Git & GitHub
 Entrepreneurship
-📞 Contact
 
+📞 Contact
 Name: Aniket Kumar
 
 Email: aniketkumar4908@gmail.com
