@@ -7,6 +7,7 @@ To gain proficiency in advanced AI and ML techniques Contribute to AI-driven res
 
 
 🌐 Portfolio Features
+
 Professional Profile Section
 About Me
 Skills Showcase
@@ -14,9 +15,11 @@ Project Gallery
 Resume Download
 GitHub & LinkedIn
 Contact Information
-📂 Featured Projects
-Ai Chatbot
 
+
+📂 Featured Projects
+
+Ai Chatbot
 Conversational AI assistant powered by Large Language Models (LLMs).
 
 House Price Prediction
@@ -28,6 +31,7 @@ Sentiment Analysis
 Natural Language Processing project for text classification.
 
 🎯 Skills
+
 C & C++
 Data Structures & Algorithms
 Object-Oriented Programming
@@ -40,6 +44,7 @@ Git & GitHub
 Entrepreneurship
 
 📞 Contact
+
 Name: Aniket Kumar
 
 Email: aniketkumar4908@gmail.com
@@ -51,6 +56,7 @@ GitHub: https://github.com/Aniketkr09
 LinkedIn: https://linkedin.com/in/aniket-kumar-4820b9335
 
 ⭐ Future Improvements
+
 Add Project Screenshots
 Add Live Project Demos
 Add Certifications Section
