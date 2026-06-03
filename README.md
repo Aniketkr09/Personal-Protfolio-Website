@@ -1,6 +1,7 @@
 #Welcome to my personal portfolio website!
 
 👨‍💻 About Me
+
 My name is Aniket Kumar, I am a passionate and motivated student pursuing a B.Tech in Computer Science Engineering with specializing in Artificial Intelligence & Machine Learning with a strong foundation in programming, data structures, algorithms, and mathematics, I am eager to apply my knowledge to real-world challenges and contribute to innovative solutions in the field of AI.
 To gain proficiency in advanced AI and ML techniques Contribute to AI-driven research and development projects.Explore career opportunities in AI/ML, data science, and research.
 
